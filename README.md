@@ -1,8 +1,6 @@
 # first_app
 
-A new Flutter application.
+A simple mobile application using Flutter. 
+References: https://flutter.io/tutorials/layout/ 
+            https://flutter.io/tutorials/interactive/
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
