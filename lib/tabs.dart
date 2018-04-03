@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'contact_view.dart';
 import 'contact.dart';
+import 'events.dart';
 
 class TabSamplePage extends StatelessWidget {
   @override
@@ -22,7 +23,7 @@ class TabSamplePage extends StatelessWidget {
               ),
               body: new TabBarView(
                 children: <Widget>[
-                  new ContactList(contacts),
+                  new EventsPage(),
                   new ContactList(contacts)
                 ],
               )
