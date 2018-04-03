@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'tabs.dart';
 
 class EventsPage extends StatefulWidget {
